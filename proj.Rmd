@@ -2,7 +2,9 @@
 title: "Project_JHU"
 author: "Yujie Liu"
 date: "July 20, 2017"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
